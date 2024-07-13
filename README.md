@@ -5,7 +5,7 @@
 
 **EN** - it's one of the requirement projects from relational database courses in freecodecamp.com(https://www.freecodecamp.org/learn/relational-database/build-a-celestial-bodies-database-project/build-a-celestial-bodies-database)
 
-i has tried to create it's database many times, to insert info i used chatgtp to create fictional info.
+I has tried to create it's database many times, to insert info i used chatgtp to create fictional info.
 
 Best regards!
 
